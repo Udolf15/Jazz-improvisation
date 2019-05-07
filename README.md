@@ -2,6 +2,8 @@
 
 Message Emojify is a program that can be used to add emoji to your text messages or any text files. 
 
+Their are 5 emoji available that are place after the end of your sentence depending on the meaning of the sentence
+
 # Prerequisites
 
 The input text file should have maximum of 10 words in each sentences.
