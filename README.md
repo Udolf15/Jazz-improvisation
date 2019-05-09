@@ -16,6 +16,13 @@ To run the program type following command : ``` python message_emojify.py -t "te
 
 The emojified text file can be retreived from the output folder.
 
+# Example 
+
+## Input 
+I am not feeling good. I am going outside to play. I love you soo much.
+## Output
+I am not feeling good 😞 . I am going outside to play ⚾ . I love you soo much ❤️ .
+
 # References
 
 Deeplearning.ai
