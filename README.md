@@ -2,7 +2,7 @@
 
 Message Emojify is a program that can be used to add emoji to your text messages or any text files. 
 
-5 emojis are currently available that are placed after the end of your sentence depending on the context of the sentence
+5 emojis are currently available that can be placed after the end of your sentence depending on the context of the sentence
 
 # Prerequisites
 
